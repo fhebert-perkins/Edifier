@@ -2,4 +2,7 @@
 
 Replace all pretenders with ed
 
-Do something with the CRX to make it work, Not sure what, but do something
+What to do with the CRX:
+
+1. Drag and drop the .CRX file onto the page chrome://extensions
+2. Click the Install button in the prompt at the bottom of the screen 
