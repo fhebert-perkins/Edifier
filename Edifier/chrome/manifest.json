@@ -3,7 +3,7 @@
     "name": "Edifier",
     "description": "Replaces all pretenders with the one true Ed",
     "homepage_url" :"http://github.com/fhebert-perkins/Edifier",
-    "version": "1.0",
+    "version": "1.1",
     "content_scripts": [
         {
             "matches": [
