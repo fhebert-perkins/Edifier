@@ -34,6 +34,6 @@ function change(element){
 
 var observer = new MutationObserver(function(mutations) {
   mutations.forEach(function(mutation) {
-    console.log(mutation.type);
+    console.log("MUTATION: "+mutation.type);
   });    
 });
